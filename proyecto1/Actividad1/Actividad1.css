@@ -1,0 +1,13 @@
+.miestilo{
+    color: #00ff19;
+}
+p.miestilo{
+    font-style: italic;
+}
+a.miestilo{
+    font-weight: bold;
+}
+
+#elementoIdentificado{
+    color: aqua;
+}
