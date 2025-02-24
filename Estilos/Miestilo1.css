@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: #f4c9d8;
+    font-size: 25px;
+
+}
+a{
+    color: blueviolet;
+
+}
+h1 {
+    color: #1761ab;
+    font-style: inherit;
+}
+h2{
+    color: #5746f9;
+}
+
+p{
+    font-style: oblique;
+}
+
+.btn {
+    padding: 10px 20px;
+    background: radial-gradient(#a138b1, #bc4679, #510128);
+    color: white;
+    border-radius: 5px;
+}
