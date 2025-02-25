@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: #97f8d6;
+    font-size: 25px;
+}
+
+h1 {
+    color: #0f495f;
+}
+
+p{
+    font-style: oblique;
+}
+
+.btn {
+    padding: 10px 20px;
+    background: radial-gradient(#53bdfd, #166056, #364881);
+    color: white;
+    border-radius: 5px;
+}

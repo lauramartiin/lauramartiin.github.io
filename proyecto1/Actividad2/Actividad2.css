@@ -1,0 +1,18 @@
+.elementoMenu{
+    text-decoration: none;
+    color: black;
+}
+.normal {
+    background-color: white;
+    color: black !important;
+}
+a.elementoMenu:visited{
+    color: black;
+}
+a.elementoMenu:active{
+    color: black;
+}
+.resaltado > a.elementoMenu {
+    background-color: #1761ab;
+    color: white !important;
+}

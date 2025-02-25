@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: #bc9ea6;
+
+
+}
+
+
+.btn {
+    padding: 10px 20px;
+    background: radial-gradient(#ec75f8, #ea86b4, #c32d77);
+    color: white;
+    border-radius: 5px;
+}
